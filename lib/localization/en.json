@@ -1,0 +1,10 @@
+{
+    "app_name": "Medispot",
+    "welcome": "Welcome",
+    "login": "Login",
+    "signup": "Sign Up",
+    "medications": "Medications",
+    "pharmacies": "Pharmacies",
+    "nearest_pharmacies": "Nearest Pharmacies",
+    "insurance_pharmacies": "Insurance Pharmacies"
+}

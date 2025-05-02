@@ -1,0 +1,10 @@
+{
+    "app_name": "ميدي سبوت",
+    "welcome": "مرحبًا",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "medications": "الأدوية",
+    "pharmacies": "الصيدليات",
+    "nearest_pharmacies": "أقرب الصيدليات",
+    "insurance_pharmacies": "صيدليات التأمين"
+}
